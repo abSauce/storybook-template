@@ -1,5 +1,5 @@
 module.exports = {
-    projectRepo: 'abrown/storyBook',
+    projectRepo: 'ekTest/storyBook',
     storybookConfigDir: '.storybook',
     apiKey: process.env.SCREENER_API_KEY,
     baseBranch: "main",
